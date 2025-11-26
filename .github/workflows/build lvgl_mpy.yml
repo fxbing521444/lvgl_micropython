@@ -15,7 +15,7 @@ jobs:
           - board: ESP32_GENERIC_S3
             variant: SPIRAM_OCT
             flash_size: 16
-            display: ili9XXX
+            display: ili9341
             indev: xpt2046
           - board: ESP32_GENERIC_C3
             variant: ""
